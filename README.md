@@ -1,2 +1,2 @@
-# IntroductionToMathematicalAnalysis2022
+# IntroductionToMathematicalAnalysis
 Введение в математический анализ
