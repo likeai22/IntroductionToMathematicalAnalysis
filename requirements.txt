@@ -1,0 +1,8 @@
+numpy
+sympy
+scipy
+pillow
+requests
+jupyter
+matplotlib
+seaborn

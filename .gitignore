@@ -106,10 +106,8 @@ ipython_config.py
 #pdm.lock
 #   pdm stores project-wide configurations in .pdm.toml, but it is recommended to not include it
 #   in version control.
-#   https://pdm.fming.dev/latest/usage/project/#working-with-version-control
+#   https://pdm.fming.dev/#use-with-ide
 .pdm.toml
-.pdm-python
-.pdm-build/
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
@@ -159,4 +157,26 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+.idea/
+.html
+.exe
+.obsidian/
+
+lesson_1/les/
+lesson_2/les/
+lesson_3/les/
+lesson_4/les/
+lesson_5/les/
+
+/dir_crt.py
+
+/lesson_7/les/
+/lesson_8/les/
+/lesson_6/les/
+/lesson_9/les/
+/lesson_11/les/
+/lesson_10/les/
+
+Excalidraw
+Заметки
+2. Множество. Последовательность. Часть 1/data/
